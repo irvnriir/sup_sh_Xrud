@@ -1,4 +1,6 @@
-Please feel free to contribute or suggest, to any part of the project .
+
+Create an Issue if you think that you were looking for this place .
+
 
 ## GitHub Issues
 
@@ -32,8 +34,3 @@ Windows, at the time:
 
 [info_githubPages.md](assets/github_b/info_githubPages.md)
 
-# Dev
-
-1. from Test Branch, del all that is not a part of the Test .
-2. test Branch release asset names .
-3. del history .
