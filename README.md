@@ -1,5 +1,5 @@
 
-Create an Issue if you think that you were looking for this place .
+If you think that you were looking for this place, create an Issue .
 
 
 ## GitHub Issues
